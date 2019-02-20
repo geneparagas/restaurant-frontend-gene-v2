@@ -2,7 +2,6 @@
   "name": "restaurant-gene-v2",
   "version": "0.1.0",
   "proxy": "http://localhost:3001",
-  "homepage": "https://geneparagas.github.io/restaurant-frontend-gene",
   "dependencies": {
     "axios": "^0.18.0",
     "firebase": "^5.8.2",
@@ -26,11 +25,5 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  }
 }
